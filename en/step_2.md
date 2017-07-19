@@ -1,13 +1,17 @@
-## What you will need
+--- challenge ---
+## Challenge: Timer games
 
-### Hardware
+Can you create a timer for a game or challenge. Will your timer need to count up or down, can you change the colours?
 
-+ List hardware here, or delete section.
+Use your timer to challenge a friend. One of you should watch the timer while the other completes the challenge.
 
-### Software
+Use one of these ideas or come up with your own:
 
-+ List software here, or delete section.
++ Can you recite the alphabet in 5 seconds? What about backwards?
 
-### Additional Resources
++ How many times can you type Code Club in 10 seconds?
 
-+ List additional resources, or delete section.
++ Gather together a few classroom items such as erasers and pencils. You get 20 seconds to try and memorize them all. Then you close your eyes while your partner removes an object. Can you identify the missing object in 10 seconds?
+
+
+--- /challenge ---
