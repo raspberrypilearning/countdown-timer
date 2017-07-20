@@ -1,53 +1,19 @@
---- challenge ---
-## Challenge: Another colour
+## Introduction: 
 
-Can you change the colour to one you like?
+In this project you will use coloured pixels on the Sense HAT to display a countdown timer.  
 
-Here's another example that uses the colour red:
+You will be writing code in the Python programming language, which you may have learnt in the [Python module](../../python/).  
 
-![screenshot](images/timer-red.png)
-
-Try experimenting with the R, G and B values (from 0 to 255.) What colour is `[255, 0, 255]`?
-
-You can also look up the RGB values for a colour using <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
-
-
-## Step 2: Creating a dot timer
-
-Another way to create a timer is by turning pixels from green to red.
+<div class="trinket">
+<iframe src="https://trinket.io/embed/python/dfdfcc6814?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+<img src="images/timer-final.png">
+</div>  
 
 
+### Additional information for club leaders
 
-+ Open the Dot Timer Starter Trinket: <a href="http://jumpto.cc/dot-timer-go" target="_blank">jumpto.cc/dot-timer-go</a>.
-
-+ Add a variable X to use to turn pixels off - it has no red, green or blue:
-
-    ![screenshot](images/timer-off.png)
-
-
-+ Add a variable called `s` for the number of seconds you want to count.
-
-   ![screenshot](images/timer-seconds.png)
-
-+ You can give the Sense HAT a list of 64 (8 x 8) colours to display starting from the top left and working down a row at a time.
-
-    Let's create a list of colours by creating a green dot for each second we want to count, and setting the rest of the 64 pixels to off. The `timer` variable contains the list of colours to display and starts off empty:
-
-    ![screenshot](images/timer-setup.png)
-
-+ Now let's run the countdown by turning a dot red every second:
-
-    ![screenshot](images/timer-turn-red.png)
-
-+ And how about flashing the display __at the end__, by turning the pixels on and off:
-
-    ![screenshot](images/timer-flash.png)
-
-
-
---- /challenge ---### Additional information for club leaders
-
-If you need to print this project, please use the [Printer friendly version](./print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/countdown-timer/print).
 
 
 --- collapse ---
