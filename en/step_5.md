@@ -1,17 +1,30 @@
---- challenge ---
-## Challenge: Timer games
+## Creating a dot timer
 
-Can you create a timer for a game or challenge. Will your timer need to count up or down, can you change the colours?
+Another way to create a timer is by turning pixels from green to red.
 
-Use your timer to challenge a friend. One of you should watch the timer while the other completes the challenge.
++ Open the dot timer starter trinket: <a href="http://jumpto.cc/dot-timer-go" target="_blank">jumpto.cc/dot-timer-go</a>
 
-Use one of these ideas or come up with your own:
++ Add a variable `X` to use to turn pixels off — it has no red, green, or blue in its RGB value:
 
-+ Can you recite the alphabet in 5 seconds? What about backwards?
-
-+ How many times can you type Code Club in 10 seconds?
-
-+ Gather together a few classroom items such as erasers and pencils. You get 20 seconds to try and memorize them all. Then you close your eyes while your partner removes an object. Can you identify the missing object in 10 seconds?
+    ![screenshot](images/timer-off.png)
 
 
---- /challenge ---
++ Add a variable called `s` for the number of seconds you want to count.
+
+   ![screenshot](images/timer-seconds.png)
+
++ You can give the Sense HAT a list of 64 (8×8) colours to display, starting from the top left and working down a row at a time.
+
+    Let's create a list of colours by creating a green pixel dot for each second we want to count, and setting the rest of the 64 pixels so they are off. The `timer` variable contains the list of colours to display and starts off empty:
+
+    ![screenshot](images/timer-setup.png)
+
++ Now let's run the countdown by turning a pixel red every second:
+
+    ![screenshot](images/timer-turn-red.png)
+
++ You could also flash the display __at the end__ by turning the pixels on and off:
+
+    ![screenshot](images/timer-flash.png)
+
+
