@@ -1,4 +1,4 @@
-## Introduction:
+## Introduction
 
 In this project you will use the coloured pixels on the Sense HAT to display a countdown timer.  
 
