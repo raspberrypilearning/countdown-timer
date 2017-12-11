@@ -13,6 +13,7 @@ technologies: sense-hat
 site_areas: codeclub, sense-hat
 steps:
 - title: Introduction
+- title: What you will need
 - title: Text countdown
 - title: 'Challenge: another colour'
 - title: Creating a dot timer
