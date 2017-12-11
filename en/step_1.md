@@ -4,7 +4,7 @@ In this project you will use the coloured pixels on the Sense HAT to display a c
 
 ### What you will make
 
-Click **Run** to start the countdown timer
+Click **Run** to start the countdown timer:
 
 <div class="trinket">
 <iframe src="https://trinket.io/embed/python/dfdfcc6814?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
