@@ -9,6 +9,6 @@ Here's another example that uses the colour red:
 
 Try experimenting with the R, G, and B values — you can use any number from 0 to 255). What colour is `[255, 0, 255]`?
 
-You can also look up the RGB values for a specific colour on <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
+You can also look up the RGB values for a specific colour <a href="http://jumpto.cc/colours" target="_blank">here</a>.
 
 --- /challenge ---
