@@ -1,30 +1,30 @@
-## Text countdown
+## पाठ की उलटी गिनती
 
-First let's count down from 5 to 0 by displaying numbers using the Sense HAT's pixel display.
+आइए पहले हम Sense Hat के पिक्सेल डिस्प्ले का उपयोग करके संख्याओं को प्रदर्शित करते हुए 5 से 0 तक उलटी गिनती करें।
 
-+ Open the Countdown timer starter trinket: <a href="http://jumpto.cc/timer-go" target="_blank">jumpto.cc/timer-go</a>
++ काउंटडाउन टाइमर स्टार्टर Trinket को खोलें: <a href="http://jumpto.cc/timer-go" target="_blank">jumpto.cc/timer-go</a>
     
-    **The code to set up the Sense HAT has been included for you.**
+    **आपके लिए Sense HAT को सेट अप करने का कोड शामिल किया गया है।**
 
-+ You're going to count up to 5 first because that's easier to do. Add the highlighted code to the bottom of your script:
++ आप पहले 5 तक गिनती करने जा रहे हैं क्योंकि ऐसा करना आसान है। अपनी स्क्रिप्ट के नीचे हाइलाइट किया गया कोड जोड़ें:
     
-    ![screenshot](images/timer-count.png)
+    ![स्क्रीनशॉट](images/timer-count.png)
     
-    The command `sense.show_letter()` displays a single letter on the Sense HAT. It doesn't allow numbers, so you have to use `str()` to change the number into a format that it can display.
+    `sense.show_letter()` कमांड से Sense HAT पर एक अकेला अक्षर प्रदर्शित होता है। इसमें संख्याओं की अनुमति नहीं होती है, इसलिए आपको संख्या को एक ऐसे प्रारूप में बदलने के लिए `str()` का उपयोग करना होगा जिसे वह प्रदर्शित कर सकता है।
     
-    `sleep(1)` waits one second before the code moves on to the next step.
+    `sleep(1)` कोड के अगले चरण पर आगे बढ़ने से पहले एक सेकंड इंतजार करता है।
 
-+ In Python, `range(1, 6)` returns the numbers 1 through to 5. You don't have to count in ones though:
++ Python में, `range(1, 6)` से 1 से लेकर 5 तक की संख्याएँ मिलती हैं। हालांकि आपको एक-एक करके नहीं गिनना होता है:
     
-    + range(1, 10, 2) would count up in twos, giving 1, 3, 5, 7, and 9
-    + range(5, 0, -1) counts down by taking away -1, giving 5, 4, 3, 2, 1
+    + range(1, 10, 2) में दो-दो करके गिनती होगी, जिससे आपको 1, 3, 5, 7, और 9 की संख्याएँ मिलेंगी
+    + range(5, 0, -1) में -1 घटाकर काउंट डाउन होता है, जिससे 5, 4, 3, 2, 1 की संख्या मिलती है
     
-    Change the range in your code so that it counts down to 0:
+    अपने कोड में रेंज बदलें ताकि इसमें 0 तक उलटी गिनती हो सके:
     
-    ![screenshot](images/timer-numbers.png)
+    ![स्क्रीनशॉट](images/timer-numbers.png)
 
-+ The number on the LEDs doesn't have to be white — the Sense HAT can display lots of colours. It uses RGB colours (red, green, and blue).
++ LED पर संख्या का सफेद होना ज़रूरी नहीं है - Sense HAT बहुत से रंग प्रदर्शित कर सकता है। इसमें RGB रंगों (लाल, हरा और नीला) का उपयोग होता है।
     
-    Try using green:
+    हरे रंग का उपयोग करके देखें:
     
-    ![screenshot](images/timer-green.png)
+    ![स्क्रीनशॉट](images/timer-green.png)
