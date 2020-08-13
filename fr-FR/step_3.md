@@ -1,30 +1,30 @@
-## Text countdown
+## Compte à rebours du texte
 
-First let's count down from 5 to 0 by displaying numbers using the Sense HAT's pixel display.
+Tout d'abord, on compte à rebours de 5 à 0 en affichant des nombres sur la matrice de pixels du Sense HAT.
 
-+ Open the Countdown timer starter trinket: <a href="http://jumpto.cc/timer-go" target="_blank">jumpto.cc/timer-go</a>
++ Ouvre le trinket «compte à rebours » : <a href="http://jumpto.cc/timer-go" target="_blank">jumpto.cc/timer-go</a>
     
-    **The code to set up the Sense HAT has been included for you.**
+    **Le code de configuration du Sense HAT a été inclus pour toi.**
 
-+ You're going to count up to 5 first because that's easier to do. Add the highlighted code to the bottom of your script:
++ Tu vas compter jusqu'à 5 d'abord parce que c'est plus facile à faire. Ajoute le code surligné au bas de ton script:
     
-    ![screenshot](images/timer-count.png)
+    ![capture d'écran](images/timer-count.png)
     
-    The command `sense.show_letter()` displays a single letter on the Sense HAT. It doesn't allow numbers, so you have to use `str()` to change the number into a format that it can display.
+    La commande `sense.show_letter()` affiche une seule lettre sur le Sense HAT. Il n'autorise pas les nombres, donc tu dois utiliser `str()` pour changer le nombre en un format qu'il peut afficher.
     
-    `sleep(1)` waits one second before the code moves on to the next step.
+    `sleep(1)` attend une seconde avant que le code ne passe à l'étape suivante.
 
-+ In Python, `range(1, 6)` returns the numbers 1 through to 5. You don't have to count in ones though:
++ En Python, `range(1, 6)` retourne les nombres 1 à 5. Tu n'as cependant pas à compter dans ceux-ci :
     
-    + range(1, 10, 2) would count up in twos, giving 1, 3, 5, 7, and 9
-    + range(5, 0, -1) counts down by taking away -1, giving 5, 4, 3, 2, 1
+    + range(1, 10, 2) compterait par deux, donnant 1, 3, 5, 7 et 9
+    + range(5, 0, -1) compte à rebours en enlevant -1, donnant 5, 4, 3, 2, 1
     
-    Change the range in your code so that it counts down to 0:
+    Modifie la plage de ton code pour qu'il décompte jusqu'à 0 :
     
     ![capture d'écran](images/timer-numbers.png)
 
-+ The number on the LEDs doesn't have to be white — the Sense HAT can display lots of colours. It uses RGB colours (red, green, and blue).
++ Le nombre sur les LED n'a pas besoin d'être blanc — le Sense HAT peut afficher beaucoup de couleurs. Il utilise le codage de couleurs RGB (rouge, vert et bleu).
     
-    Try using green:
+    Essaie d'utiliser le vert:
     
     ![capture d'écran](images/timer-green.png)
