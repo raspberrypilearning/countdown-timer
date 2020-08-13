@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: timer games
+## التحدي: ألعاب المؤقت
 
-+ Can you create a timer for a game or challenge? Think about whether you timers needs to count up or down, and about what colours it should have.
++ هل يمكنك إنشاء مؤقت للعبة أو تحدي؟ فكر في ما إذا كانت المؤقتات تحتاج إلى العد تصاعديًا أو تنازليًا ، وعن الألوان التي يجب أن تكون عليها.
 
-Use your timer to challenge a friend — one of you should watch the timer while the other completes the challenge.
+استخدم المؤقت الخاص بك لتحدي صديق؛ يجب على أحدكم مشاهدة المؤقت بينما يكمل الآخر التحدي.
 
-Use one of these ideas as a challenge, or come up with your own:
+استخدم إحدى هذه الأفكار كتحدي، أو ابتكر تحدياتك الخاصة:
 
-+ Can you recite the alphabet in 5 seconds? What about backwards?
++ هل يمكنك قراءة الأبجدية في 5 ثوان؟ ماذا عن قراءتها بشكل معكوس؟
 
-+ How many times can you type 'Code Club' in 10 seconds?
++ كم مرة يمكنك كتابة "نادي البرمجة - code club" في 10 ثوان؟
 
-+ Gather together a number of classroom items, such as erasers and pencils. You get 20 seconds to try and memorize them all. Then you close your eyes while your partner removes an object. Can you identify the missing object in 10 seconds?
++ اجمع عددًا من مواد الفصول الدراسية، مثل الممحاة وقلم الرصاص. لديك 20 ثانية لمحاولة حفظها جميعًا. ثم تغلق عينيك بينما يقوم شريكك بإزالة مادة. هل يمكنك تحديد المادة المفقودة في 10 ثوانٍ؟
 
 \--- /challenge \---
