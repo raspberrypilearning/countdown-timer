@@ -21,10 +21,10 @@ First let's count down from 5 to 0 by displaying numbers using the Sense HAT's p
     
     Change the range in your code so that it counts down to 0:
     
-    ![captura de ecrã](images/timer-numbers.png)
+    ![screenshot](images/timer-numbers.png)
 
 + The number on the LEDs doesn't have to be white — the Sense HAT can display lots of colours. It uses RGB colours (red, green, and blue).
     
     Try using green:
     
-    ![captura de ecrã](images/timer-green.png)
+    ![screenshot](images/timer-green.png)
