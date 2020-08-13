@@ -18,9 +18,9 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Einleitung
+    title: Introduction
   - 
-    title: Was du brauchen wirst
+    title: What you will need
   - 
     title: Text countdown
   - 
