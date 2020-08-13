@@ -8,7 +8,7 @@ First let's count down from 5 to 0 by displaying numbers using the Sense HAT's p
 
 + You're going to count up to 5 first because that's easier to do. Add the highlighted code to the bottom of your script:
     
-    ![captura de tela](images/timer-count.png)
+    ![screenshot](images/timer-count.png)
     
     The command `sense.show_letter()` displays a single letter on the Sense HAT. It doesn't allow numbers, so you have to use `str()` to change the number into a format that it can display.
     
