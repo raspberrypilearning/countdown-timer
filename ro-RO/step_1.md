@@ -1,8 +1,8 @@
-## Introducere
+## Introduction
 
 In this project you will use the coloured pixels on the Sense HAT to display a countdown timer.
 
-### Ce veți face
+### What you will make
 
 Click **Run** to start the countdown timer:
 
@@ -11,14 +11,14 @@ Click **Run** to start the countdown timer:
 </iframe> <img src="images/timer-final.png" />
 </div>
 
-### Ce veți învăța
+### What you will learn
 
-Acest proiect acoperă elemente din următoarele componente ale curriculumului [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Apply basic programming constructs to solve a problem](https://www.raspberrypi.org/curriculum/programming/builder){:target="_blank"}
 
-### Informații suplimentare pentru educatori
+### Additional information for educators
 
-Dacă doriți să printați acest proiect, folosiți[printer-friendly version](https://projects.raspberrypi.org/en/projects/countdown-timer/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/countdown-timer/print){:target="_blank"}.
 
-Utilizați link-ul din subsolul paginii pentru a accesa referința GitHub pentru acest proiect, care conține toate resursele (inclusiv un exemplu de proiect finalizat) în directorul ‘ro-RO/resources’.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
