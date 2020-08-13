@@ -6,7 +6,7 @@ Another way to create a timer is by turning pixels from green to red.
 
 + Add a variable `X` to use to turn pixels off — it has no red, green, or blue in its RGB value:
     
-    ![captura de pantalla](images/timer-off.png)
+    ![screenshot](images/timer-off.png)
 
 + Add a variable called `s` for the number of seconds you want to count.
     
@@ -16,7 +16,7 @@ Another way to create a timer is by turning pixels from green to red.
     
     Let's create a list of colours by creating a green pixel dot for each second we want to count, and setting the rest of the 64 pixels so they are off. The `timer` variable contains the list of colours to display and starts off empty:
     
-    ![captura de pantalla](images/timer-setup.png)
+    ![screenshot](images/timer-setup.png)
 
 + Now let's run the countdown by turning a pixel red every second:
     
@@ -24,4 +24,4 @@ Another way to create a timer is by turning pixels from green to red.
 
 + You could also flash the display **at the end** by turning the pixels on and off:
     
-    ![captura de pantalla](images/timer-flash.png)
+    ![screenshot](images/timer-flash.png)
