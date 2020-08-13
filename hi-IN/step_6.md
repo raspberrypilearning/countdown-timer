@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## चुनौती: टाइमर गेम
+## Challenge: timer games
 
-+ क्या आप किसी गेम या चुनौती के लिए टाइमर बना सकते हैं? इस बारे में सोचें कि आपके टाइमर को सीधी गिनती करनी है या उलटी गिनती करनी है, और इसके पास कौन से रंग होने चाहिए।
++ Can you create a timer for a game or challenge? Think about whether you timers needs to count up or down, and about what colours it should have.
 
-अपने टाइमर का उपयोग किसी दोस्त को चुनौती देने के लिए करें - आप में से किसी एक को टाइमर देखना चाहिए और दूसरे को चुनौती पूरी करनी चाहिए।
+Use your timer to challenge a friend — one of you should watch the timer while the other completes the challenge.
 
-इनमें से किसी एक विचार का चुनौती के रूप में उपयोग करें, या अपने स्वयं के विचार पेश करें:
+Use one of these ideas as a challenge, or come up with your own:
 
-+ क्या आप 5 सेकंड में वर्णमाला का वाचन कर सकते हैं? उलटी गिनती के बारे में क्या विचार है?
++ Can you recite the alphabet in 5 seconds? What about backwards?
 
-+ आप 10 सेकंड में 'Code Club' कितनी बार टाइप कर सकते हैं?
++ How many times can you type 'Code Club' in 10 seconds?
 
-+ क्लासरूम की कुछ आइटम, जैसे रबड़ और पेंसिल इकट्ठा करें। आपको प्रयास करने और उन सभी को याद करने के लिए 20 सेकंड मिलेंगे। फिर आप अपनी आँखें बंद कर लेंगे और आपका साथी किसी एक वस्तु को हटा देगा। क्या आप 10 सेकंड में लापता वस्तु की पहचान कर सकते हैं?
++ Gather together a number of classroom items, such as erasers and pencils. You get 20 seconds to try and memorize them all. Then you close your eyes while your partner removes an object. Can you identify the missing object in 10 seconds?
 
 \--- /challenge \---
