@@ -12,4 +12,4 @@ Try experimenting with the R, G, and B values — you can use any number from 0 
 
 You can also look up the RGB values for a specific colour <a href="http://jumpto.cc/colours" target="_blank">here</a>.
 
-Und ergänze den CSS-Code in <0>style.css</0>, um das Bild zu positionieren.
+\--- /challenge \---
