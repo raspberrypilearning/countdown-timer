@@ -1,6 +1,6 @@
 ---
 hero_image: images/countdown-timer.png
-theme: красная
+theme: red
 duration: 2
 listed: true
 ingredient: false
@@ -18,9 +18,9 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Введение
+    title: Introduction
   - 
-    title: Что вам понадобится
+    title: What you will need
   - 
     title: Text countdown
   - 
