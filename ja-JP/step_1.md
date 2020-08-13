@@ -1,8 +1,8 @@
-## はじめに
+## Introduction
 
 In this project you will use the coloured pixels on the Sense HAT to display a countdown timer.
 
-### 作るもの
+### What you will make
 
 Click **Run** to start the countdown timer:
 
@@ -11,14 +11,14 @@ Click **Run** to start the countdown timer:
 </iframe> <img src="images/timer-final.png" />
 </div>
 
-### あなたが学ぶもの
+### What you will learn
 
-このプロジェクトは、[ラズベリーパイデジタルメイクカリキュラムの以下の要素をカバーします](http://rpf.io/curriculum) ：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Apply basic programming constructs to solve a problem](https://www.raspberrypi.org/curriculum/programming/builder){:target="_blank"}
 
-### 教育者のための追加情報
+### Additional information for educators
 
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/countdown-timer/print){:target="_ blank"}を使用してください。
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/countdown-timer/print){:target="_blank"}.
 
-フッターのあるリンクから、本プロジェクトのGitHubリポジトリ内の（過去の完成したプロジェクトの例を含む）全ての資料を含む'en/resources'フォルダにアクセスできます。
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
