@@ -6,11 +6,11 @@ Another way to create a timer is by turning pixels from green to red.
 
 + Add a variable `X` to use to turn pixels off — it has no red, green, or blue in its RGB value:
     
-    ![captura de tela](images/timer-off.png)
+    ![screenshot](images/timer-off.png)
 
 + Add a variable called `s` for the number of seconds you want to count.
     
-    ![captura de tela](images/timer-seconds.png)
+    ![screenshot](images/timer-seconds.png)
 
 + You can give the Sense HAT a list of 64 (8×8) colours to display, starting from the top left and working down a row at a time.
     
@@ -20,7 +20,7 @@ Another way to create a timer is by turning pixels from green to red.
 
 + Now let's run the countdown by turning a pixel red every second:
     
-    ![captura](images/timer-turn-red.png)
+    ![screenshot](images/timer-turn-red.png)
 
 + You could also flash the display **at the end** by turning the pixels on and off:
     
