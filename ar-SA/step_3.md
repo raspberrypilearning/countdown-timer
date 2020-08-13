@@ -1,30 +1,30 @@
-## Text countdown
+## العد التنازلي للنص
 
-First let's count down from 5 to 0 by displaying numbers using the Sense HAT's pixel display.
+دعنا أولاً نعد تنازلياً من 5 إلى 0 من خلال عرض الأرقام باستخدام شاشة عرض البكسلات الخاصة بلوحة Sense Hat.
 
-+ Open the Countdown timer starter trinket: <a href="http://jumpto.cc/timer-go" target="_blank">jumpto.cc/timer-go</a>
++ شغل العناصر الرئيسية لمؤقت العد التنازلي <a href="http://jumpto.cc/timer-go" target="_blank">jumpto.cc/timer-go</a>
     
-    **The code to set up the Sense HAT has been included for you.**
+    **تم تضمين كود خاص لاعداد ال Sense Hat.**
 
-+ You're going to count up to 5 first because that's easier to do. Add the highlighted code to the bottom of your script:
++ سوف تبدأ أولًا بالعد حتى الرقم 5 لأن ذلك أسهل. أضف الكود المضلل أسفل النص البرمجي الخاص بك:
     
-    ![لقطة الشاشة](images/timer-count.png)
+    ![لقطة شاشة](images/timer-count.png)
     
-    The command `sense.show_letter()` displays a single letter on the Sense HAT. It doesn't allow numbers, so you have to use `str()` to change the number into a format that it can display.
+    الأمر `sense.show_letter()` يعرض حرف واحد على لوحة Sense HAT. لا يسمح بالأرقام ، لذلك يجب عليك استخدام ` str () ` لتغيير الرقم إلى صيغه قابله للعرض.
     
-    `sleep(1)` waits one second before the code moves on to the next step.
+    يشير الأمر `sleep(1)` للإنتظار ثانية واحدة قبل أن ينتقل الكود للخطوة التالية.
 
-+ In Python, `range(1, 6)` returns the numbers 1 through to 5. You don't have to count in ones though:
++ في نظام البايثون؛ يُعيد الأمر `range(1, 6)` الأرقام من 1 إلى 5. لكنك لست مضطرًا للعد بتلك الآلية:
     
-    + range(1, 10, 2) would count up in twos, giving 1, 3, 5, 7, and 9
-    + range(5, 0, -1) counts down by taking away -1, giving 5, 4, 3, 2, 1
+    + يَحسب النطاق (1, 10, 2) تصاعدياً بمضاعفات ثنائية معطيًا الأرقام 1,3,5,7,9
+    + يَحسب النطاق (5, 0,-1) الأرقام بطريقة تنازلية فردية معطيًا الأرقام 5, 4, 3, 2, 1 ويتم اقصاء الرقم -1
     
-    Change the range in your code so that it counts down to 0:
+    قم بتغيير النطاق في الكود الخاص بك بحيث يبدأ بالعد تنازلياً حتى الصفر:
     
-    ![لقطة الشاشة](images/timer-numbers.png)
+    ![لقطة شاشة](images/timer-numbers.png)
 
-+ The number on the LEDs doesn't have to be white — the Sense HAT can display lots of colours. It uses RGB colours (red, green, and blue).
++ ليس من الضروري أن يظهر الرقم في اللدات باللون الأبيض، يمكن لـ Sense HAT عرض العديد من الألوان. إذ يستخدم النموذج اللوني RGB (أحمر RED، أخضر Green، أزرق Blue).
     
-    Try using green:
+    جرب استخدام اللون الأخضر:
     
-    ![لقطة الشاشة](images/timer-green.png)
+    ![لقطة شاشة](images/timer-green.png)
