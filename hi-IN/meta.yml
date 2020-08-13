@@ -6,26 +6,26 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Countdown timer (काउंटडाउन टाइमर)
-description: Raspberry Pi के लिए Sense HAT पर काउंटडाउन टाइमर प्रदर्शित करें।
+title: Countdown timer
+description: Display a countdown timer on a Sense HAT for the Raspberry Pi
 original_url: https://codeclubprojects.org/en-GB/sense-hat/countdown-timer
 interests: ''
 technologies: sense-hat
-site_areas: प्रोजेक्ट
+site_areas: projects
 hardware: sense-hat
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: भूमिका
+    title: Introduction
   - 
-    title: आपको किसकी ज़रूरत होगी
+    title: What you will need
   - 
-    title: पाठ की उलटी गिनती
+    title: Text countdown
   - 
-    title: 'चुनौती: कोई दूसरा रंग'
+    title: 'Challenge: another colour'
   - 
-    title: डॉट टाइमर बनाना
+    title: Creating a dot timer
   - 
-    title: 'चुनौती: टाइमर गेम'
+    title: 'Challenge: timer games'
