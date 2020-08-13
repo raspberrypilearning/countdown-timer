@@ -1,15 +1,15 @@
-\--- challange \---
+\--- challenge \---
 
-## Challenge: another colour
+## Défi : une autre couleur
 
-Can you change the colour to one you like?
+Peux-tu changer la couleur avec celle que tu aimes ?
 
-Here's another example that uses the colour red:
+Voici un autre exemple qui utilise la couleur rouge :
 
 ![capture d'écran](images/timer-red.png)
 
-Try experimenting with the R, G, and B values — you can use any number from 0 to 255). What colour is `[255, 0, 255]`?
+Essaie d'expérimenter une nouvelle couleur avec les valeurs R, G et B — vous pouvez utiliser n'importe quel nombre de 0 à 255. Quelle couleur correspond à `[255, 0, 255]`?
 
-You can also look up the RGB values for a specific colour <a href="http://jumpto.cc/colours" target="_blank">here</a>.
+Également recherche les valeurs RGB pour une couleur spécifique <a href="http://jumpto.cc/colours" target="_blank">ici</a>.
 
 \--- /challenge \---
