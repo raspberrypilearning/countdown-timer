@@ -1,27 +1,27 @@
-## डॉट टाइमर बनाना
+## Creating a dot timer
 
-टाइमर बनाने का एक और तरीका यह है कि पिक्सल को हरे से लाल रंग में बदल दिया जाए।
+Another way to create a timer is by turning pixels from green to red.
 
-+ डॉट टाइमर स्टार्टर trinket को खोलें: <a href="http://jumpto.cc/dot-timer-go" target="_blank">jumpto.cc/dot-timer-go</a>
++ Open the dot timer starter trinket: <a href="http://jumpto.cc/dot-timer-go" target="_blank">jumpto.cc/dot-timer-go</a>
 
-+ पिक्सेल बंद करने के लिए उपयोग में लाने के लिए वेरिएबल `X` जोड़ें - इसके RGB मान में कोई लाल, हरा या नीला रंग नहीं है:
++ Add a variable `X` to use to turn pixels off — it has no red, green, or blue in its RGB value:
     
-    ![स्क्रीनशॉट](images/timer-off.png)
+    ![screenshot](images/timer-off.png)
 
-+ आप जितने सेकंड की गिनती करना चाहते हैं उसके लिए `s` नामक एक वेरिएबल जोड़ें।
++ Add a variable called `s` for the number of seconds you want to count.
     
-    ![स्क्रीनशॉट](images/timer-seconds.png)
+    ![screenshot](images/timer-seconds.png)
 
-+ आप Sense HAT को ऊपर बाईं ओर से शुरू करके नीचे एक बार में एक पंक्ति में प्रदर्शित करने के लिए 64 (8×8) रंगों की एक सूची दे सकते हैं।
++ You can give the Sense HAT a list of 64 (8×8) colours to display, starting from the top left and working down a row at a time.
     
-    आइए हम जितने सेकंड की गिनती करना चाहते हैं, उस प्रत्येक सेकंड के लिए हरे रंग की पिक्सेल डॉट बनाकर रंगों की सूची बनाएँ, और बाकी 64 पिक्सेल को सेट कर दें ताकि वे बंद हो जाएँ। `timer` वेरिएबल में प्रदर्शित किए जाने वाले रंगों की सूची शामिल है और यह खाली चलना शुरू हो जाता है:
+    Let's create a list of colours by creating a green pixel dot for each second we want to count, and setting the rest of the 64 pixels so they are off. The `timer` variable contains the list of colours to display and starts off empty:
     
-    ![स्क्रीनशॉट](images/timer-setup.png)
+    ![screenshot](images/timer-setup.png)
 
-+ आइए अब हम हर सेकंड एक पिक्सेल को लाल रंग में बदल कर उलटी गिनती चलाएँ:
++ Now let's run the countdown by turning a pixel red every second:
     
-    ![स्क्रीनशॉट](images/timer-turn-red.png)
+    ![screenshot](images/timer-turn-red.png)
 
-+ आप पिक्सल को चालू और बंद करके डिस्प्ले को **अंत में** भी फ्लैश कर सकते हैं:
++ You could also flash the display **at the end** by turning the pixels on and off:
     
-    ![स्क्रीनशॉट](images/timer-flash.png)
+    ![screenshot](images/timer-flash.png)
