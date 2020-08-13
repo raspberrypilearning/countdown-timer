@@ -1,11 +1,11 @@
 ---
-hero_image: images / countdown-timer.png
+hero_image: images/countdown-timer.png
 theme: red
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, tasarım-0, programlama-1, phys-comp-0, üretim-0, topluluk-0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Countdown timer
 description: Display a countdown timer on a Sense HAT for the Raspberry Pi
 original_url: https://codeclubprojects.org/en-GB/sense-hat/countdown-timer
@@ -18,9 +18,9 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Giriş
+    title: Introduction
   - 
-    title: İhtiyacınız olanlar
+    title: What you will need
   - 
     title: Text countdown
   - 
