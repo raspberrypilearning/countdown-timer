@@ -1,4 +1,4 @@
-\--- 도전 \---
+\--- challenge \---
 
 ## Challenge: timer games
 
@@ -14,4 +14,4 @@ Use one of these ideas as a challenge, or come up with your own:
 
 + Gather together a number of classroom items, such as erasers and pencils. You get 20 seconds to try and memorize them all. Then you close your eyes while your partner removes an object. Can you identify the missing object in 10 seconds?
 
-\--- /도전 \---
+\--- /challenge \---
