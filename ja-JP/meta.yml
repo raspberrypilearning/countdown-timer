@@ -18,9 +18,9 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: 前書き
+    title: Introduction
   - 
-    title: あなたが必要とするもの
+    title: What you will need
   - 
     title: Text countdown
   - 
