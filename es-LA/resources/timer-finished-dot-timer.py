@@ -10,18 +10,18 @@ R = [255, 0, 0] # rojo
 X = [0, 0, 0]  # desactivado
 
 secs = 10
-timer = [ G for i in range(secs)] + [ X for j in range(64 - secs) ]
+temporizador = [ G for i in range(secs)] + [ X for j in range(64 - secs) ]
 
-sense.set_pixels(timer)
+sense.set_pixels(temporizador)
 
 #temporizador de 30 segundos
 for i in range(0, secs):
   sleep(1)
-  timer[i] = R
-  sense.set_pixels(timer)
+  temporizador[i] = R
+  sense.set_pixels(temporizador)
 
 for i in range(0, 10):
   sense.clear()
   sleep(0.1)
-  sense.set_pixels(timer)
+  sense.set_pixels(temporizador)
   sleep(0.1)
