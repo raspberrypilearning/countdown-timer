@@ -11,16 +11,16 @@ description: Display a countdown timer on a Sense HAT for the Raspberry Pi
 original_url: https://codeclubprojects.org/en-GB/sense-hat/countdown-timer
 interests: ''
 technologies: sense-hat
-site_areas: codeclub, webdev
+site_areas: projects
 hardware: sense-hat
 software: ''
 version: 3
-last_tested: 2017年1月1日
+last_tested: 2017-01-01
 steps:
   - 
-    title: 介绍
+    title: Introduction
   - 
-    title: 你将需要什么
+    title: What you will need
   - 
     title: Text countdown
   - 
