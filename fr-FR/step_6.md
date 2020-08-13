@@ -1,17 +1,17 @@
-\--- challange \---
+\--- challenge \---
 
-## Challenge: timer games
+## Défi: jeux de minuterie
 
-+ Can you create a timer for a game or challenge? Think about whether you timers needs to count up or down, and about what colours it should have.
++ Peux-tu créer un chronomètre pour un jeu ou un défi? Réfléchis si tu as besoin de compter ou de décompter, et quelles couleurs utiliser.
 
-Use your timer to challenge a friend — one of you should watch the timer while the other completes the challenge.
+Utilise ton minuteur pour défier un ami — l'un de vous devra regarder le minuteur pendant que l'autre termine le défi.
 
-Use one of these ideas as a challenge, or come up with your own:
+Utilise l'une de ces idées comme un défi, ou propose les tiennes:
 
-+ Can you recite the alphabet in 5 seconds? What about backwards?
++ Peux-tu réciter l'alphabet en 5 secondes? Et en arrière?
 
-+ How many times can you type 'Code Club' in 10 seconds?
++ Combien de fois peux-tu taper 'Code Club' en 10 secondes?
 
-+ Gather together a number of classroom items, such as erasers and pencils. You get 20 seconds to try and memorize them all. Then you close your eyes while your partner removes an object. Can you identify the missing object in 10 seconds?
++ Réunis un certain nombre d'objets en classe, tels que des gommes et des crayons. Tu as 20 secondes pour essayer de tous les mémoriser. Puis ferme tes yeux pendant que ton partenaire supprime un objet. Peux-tu identifier l'objet manquant en 10 secondes ?
 
 \--- /challenge \---
