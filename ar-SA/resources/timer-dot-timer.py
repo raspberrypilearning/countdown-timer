@@ -3,8 +3,8 @@
 from sense_hat import SenseHat
 from time import sleep
 
-sense = SenseHat()
+المتحسس= (SenseHat)
 
-G = [0, 255, 0]
+G = [0، 255، 0]
 R = [255, 0, 0]
 
