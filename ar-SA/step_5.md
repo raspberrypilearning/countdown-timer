@@ -1,27 +1,27 @@
-## Creating a dot timer
+## إنشاء مؤقت نقطي
 
-Another way to create a timer is by turning pixels from green to red.
+طريقة أخرى لإنشاء المؤقت هي بتحويل البكسلات من الأخضر إلى الأحمر.
 
-+ Open the dot timer starter trinket: <a href="http://jumpto.cc/dot-timer-go" target="_blank">jumpto.cc/dot-timer-go</a>
++ قم بتشغيل المؤقت النقطي على ترنكيت من هنا: <a href="http://jumpto.cc/dot-timer-go" target="_blank">jumpto.cc/dot-timer-go</a>
 
-+ Add a variable `X` to use to turn pixels off — it has no red, green, or blue in its RGB value:
++ أضف متغير `X` لاستخدامها في إيقاف تشغيل وحدات البكسل؛ ليس لها قيمة حمراء أو خضراء أو زرقاء في قيمة RGB:
     
-    ![لقطة الشاشة](images/timer-off.png)
+    ![لقطة شاشة](images/timer-off.png)
 
-+ Add a variable called `s` for the number of seconds you want to count.
++ أضف متغير يدعى `s` لعدد الثواني التي تريد حسابها.
     
-    ![لقطة الشاشة](images/timer-seconds.png)
+    ![لقطة شاشة](images/timer-seconds.png)
 
-+ You can give the Sense HAT a list of 64 (8×8) colours to display, starting from the top left and working down a row at a time.
++ يمكنك إعطاء لوحة Sense HAT قائمة من 64 (8×8) لون لعرضها، بدءًا من أعلى اليسار باتجاه الأسفل في وقت واحد.
     
-    Let's create a list of colours by creating a green pixel dot for each second we want to count, and setting the rest of the 64 pixels so they are off. The `timer` variable contains the list of colours to display and starts off empty:
+    دعنا ننشئ قائمة بالألوان من خلال إنشاء نقطة بكسل خضراء لكل ثانية نريد حسابها ، وتعيين باقي وحدات البكسل البالغ عددها 64 بكسل بحيث يتم إيقاف تشغيلها. يحتوي متغير `timer` على قائمة الألوان المقرر عرضها ويبدًا فارغًا:
     
-    ![لقطة الشاشة](images/timer-setup.png)
+    ![لقطة شاشة](images/timer-setup.png)
 
-+ Now let's run the countdown by turning a pixel red every second:
++ لنقم الآن بتشغيل العد التنازلي من خلال تحويل بكسل واحد إلى اللون الأحمر كل ثانية:
     
-    ![لقطة الشاشة](images/timer-turn-red.png)
+    ![لقطة شاشة](images/timer-turn-red.png)
 
-+ You could also flash the display **at the end** by turning the pixels on and off:
++ يمكنك أيضًا أن تضيف وميضًا للعرض **at the end** عن طريق تشغيل وحدات البكسل وإيقافها:
     
-    ![لقطة الشاشة](images/timer-flash.png)
+    ![لقطة شاشة](images/timer-flash.png)
