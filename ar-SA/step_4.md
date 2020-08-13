@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: another colour
+## التحدي: لون آخر
 
-Can you change the colour to one you like?
+هل يمكنك تغيير اللون إلى اللون الذي يعجبك؟
 
-Here's another example that uses the colour red:
+إليك مثال آخر يستخدم اللون الأحمر:
 
-![لقطة الشاشة](images/timer-red.png)
+![لقطة شاشة](images/timer-red.png)
 
-Try experimenting with the R, G, and B values — you can use any number from 0 to 255). What colour is `[255, 0, 255]`?
+حاول تجربة قيم RGB ؛ يمكنك استخدام أي رقم ( من ٠ إلى ٢٥٥). ما هو لون القيمة التالية: `[255, 0, 255]`؟
 
-You can also look up the RGB values for a specific colour <a href="http://jumpto.cc/colours" target="_blank">here</a>.
+يمكنك أيضًا البحث عن قيم RGB للون معين <a href="http://jumpto.cc/colours" target="_blank"> هنا </a>.
 
 \--- /challenge \---
