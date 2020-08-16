@@ -13,7 +13,7 @@
 
 ### ನೀವು ಏನು ಕಲಿಯುವಿರಿ
 
-ಈ ಯೋಜನೆ ಕೆಳಕಂಡ ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ: [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+ಈ ಯೋಜನೆ ಕೆಳಕಂಡ ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Apply basic programming constructs to solve a problem](https://www.raspberrypi.org/curriculum/programming/builder){:target="_blank"}
 
