@@ -13,12 +13,12 @@
 
 ### तुम्हाला काय शिकायला मिळेल
 
-ह्या प्रकल्पात [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) {:target="_blank"} च्या अभ्यासक्रमातील पुढील बाबी समाविष्ट आहेत:
+ह्या प्रकल्पात [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"} च्या अभ्यासक्रमातील पुढील बाबी समाविष्ट आहेत:
 
-+ [Apply basic programming constructs to solve a problem](https://www.raspberrypi.org/curriculum/programming/builder){:target="_blank"}
++ [साधे प्रोग्राम तयार करण्यासाठी बेसिक प्रोग्रामिंग कॉन्स्ट्रक्टचा वापर करा](https://www.raspberrypi.org/curriculum/programming/builder){:target="_blank"}
 
 ### शिक्षकांसाठी अतिरिक्त माहिती
 
-आपल्याला हा प्रकल्प मुद्रित करण्याची आवश्यकता असल्यास, कृपया हा लिंक वापरा - [printer-friendly version](https://projects.raspberrypi.org/en/projects/countdown-timer/print){:target="_blank"}.
+तुम्हाला हा प्रोजेक्ट प्रिंट करणे आवश्यक असल्यास, कृपया [प्रिंटर अनुकूल आवृत्ती](https://projects.raspberrypi.org/en/projects/countdown-timer/print){:target="_blank"} वापरा.
 
-या प्रकल्पासाठी फूटरमधील लिंक वापरा, जे आपल्याला गिटहब रेपॉजिटरी मध्ये प्रवेश करून, 'en/resources' फोल्डर असलेले सर्व संसाधने (उदाहरणार्थ पूर्ण झालेल्या प्रकल्पासह) वापरता येईल.
+या प्रकल्पासाठी फूटरमधील लिंक वापरा, जे आपल्याला GitHub रेपॉजिटरी मध्ये प्रवेश करून, 'en/resources' फोल्डर असलेले सर्व संसाधने (उदाहरणार्थ पूर्ण झालेल्या प्रकल्पासह) वापरता येईल.
