@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: another colour
+## Uitdaging: een andere kleur
 
-Can you change the colour to one you like?
+Kun je de kleur veranderen in een kleur die je mooi vindt?
 
-Here's another example that uses the colour red:
+Hier is een ander voorbeeld dat de kleur rood gebruikt:
 
-![screenshot](images/timer-red.png)
+![schermafbeelding](images/timer-red.png)
 
-Try experimenting with the R, G, and B values — you can use any number from 0 to 255). What colour is `[255, 0, 255]`?
+Probeer te experimenteren met de R-, G- en B-waarden — je kunt elk getal gebruiken van 0 tot 255. Welke kleur is `[255, 0, 255]`?
 
-You can also look up the RGB values for a specific colour <a href="http://jumpto.cc/colours" target="_blank">here</a>.
+Je kunt ook de RGB waarden voor een specifieke kleur <a href="http://jumpto.cc/colours" target="_blank">hier</a> opzoeken.
 
 \--- /challenge \---
