@@ -1,27 +1,27 @@
-## Creating a dot timer
+## Een timer met stippen maken
 
-Another way to create a timer is by turning pixels from green to red.
+Een andere manier om een timer te maken, is door pixels van groen in rood te veranderen.
 
-+ Open the dot timer starter trinket: <a href="http://jumpto.cc/dot-timer-go" target="_blank">jumpto.cc/dot-timer-go</a>
++ Open de stippentimer starttrinket: <a href="http://jumpto.cc/dot-timer-go" target="_blank">jumpto.cc/dot-timer-go</a>
 
-+ Add a variable `X` to use to turn pixels off — it has no red, green, or blue in its RGB value:
++ Voeg een variabele `X` toe om pixels uit te kunnen schakelen — het heeft geen rood, groen of blauw in zijn RGB waarde:
     
-    ![screenshot](images/timer-off.png)
+    ![schermafbeelding](images/timer-off.png)
 
-+ Add a variable called `s` for the number of seconds you want to count.
++ Voeg een variabele met de naam `s` toe voor het aantal seconden dat je wilt tellen.
     
-    ![screenshot](images/timer-seconds.png)
+    ![schermafbeelding](images/timer-seconds.png)
 
-+ You can give the Sense HAT a list of 64 (8×8) colours to display, starting from the top left and working down a row at a time.
++ Je kunt de Sense HAT een lijst van 64 (8 × 8) kleuren geven om weer te geven, beginnend linksboven en rij voor rij naar beneden.
     
-    Let's create a list of colours by creating a green pixel dot for each second we want to count, and setting the rest of the 64 pixels so they are off. The `timer` variable contains the list of colours to display and starts off empty:
+    Laten we een lijst met kleuren maken door een groene pixelpunt te maken voor elke seconde die we willen tellen, en de rest van de 64 pixels zo in te stellen dat ze zijn uitgeschakeld. De variabele `timer` bevat de lijst met weer te geven kleuren en begint leeg:
     
-    ![screenshot](images/timer-setup.png)
+    ![schermafbeelding](images/timer-setup.png)
 
-+ Now let's run the countdown by turning a pixel red every second:
++ Laten we nu het aftellen uitvoeren door elke seconde een pixel rood te maken:
     
-    ![screenshot](images/timer-turn-red.png)
+    ![schermafbeelding](images/timer-turn-red.png)
 
-+ You could also flash the display **at the end** by turning the pixels on and off:
++ Je kunt ook het scherm **aan het einde** laten knipperen door de pixels in en uit te schakelen:
     
-    ![screenshot](images/timer-flash.png)
+    ![schermafbeelding](images/timer-flash.png)
