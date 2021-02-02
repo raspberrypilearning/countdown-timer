@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: timer games
+## Uitdaging: timerspellen
 
-+ Can you create a timer for a game or challenge? Think about whether you timers needs to count up or down, and about what colours it should have.
++ Kun je een timer maken voor een spel of uitdaging? Bedenk of je timers omhoog of omlaag moeten tellen, en welke kleuren die moeten hebben.
 
-Use your timer to challenge a friend — one of you should watch the timer while the other completes the challenge.
+Gebruik je timer om een vriend uit te dagen — een van jullie zou naar de timer moeten kijken terwijl de ander de uitdaging voltooit.
 
-Use one of these ideas as a challenge, or come up with your own:
+Gebruik een van deze ideeën als een uitdaging, of kom met je eigen ideeën:
 
-+ Can you recite the alphabet in 5 seconds? What about backwards?
++ Kun je in 5 seconden het alfabet opzeggen? Hoe zit het met achteruit?
 
-+ How many times can you type 'Code Club' in 10 seconds?
++ Hoe vaak kun je 'Code Club' typen in 10 seconden?
 
-+ Gather together a number of classroom items, such as erasers and pencils. You get 20 seconds to try and memorize them all. Then you close your eyes while your partner removes an object. Can you identify the missing object in 10 seconds?
++ Verzamel een aantal voorwerpen uit het klaslokaal, zoals gummen en potloden. Je krijgt 20 seconden om ze allemaal te onthouden. Dan sluit je je ogen terwijl je partner een voorwerp verwijdert. Kun je het ontbrekende object in 10 seconden identificeren?
 
 \--- /challenge \---
