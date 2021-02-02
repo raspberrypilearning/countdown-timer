@@ -5,17 +5,17 @@ from time import sleep
 
 sense = SenseHat()
 
-G = [0, 255, 0]  # green
-R = [255, 0, 0] # red
-X = [0, 0, 0]  # off
+G = [0, 255, 0]  # groen
+R = [255, 0, 0] # rood
+X = [0, 0, 0]  # uit
 
-secs = 10
-timer = [ G for i in range(secs)] + [ X for j in range(64 - secs) ]
+seconden = 10
+timer = [ G for i in range(seconden)] + [ X for j in range(64 - seconden) ]
 
 sense.set_pixels(timer)
 
-# 30 second timer
-for i in range(0, secs):
+# 30 seconden timer
+for i in range(0, seconden):
   sleep(1)
   timer[i] = R
   sense.set_pixels(timer)
