@@ -1,24 +1,24 @@
-## Introduction
+## Inleiding
 
-In this project you will use the coloured pixels on the Sense HAT to display a countdown timer.
+In dit project gebruik je de gekleurde pixels op de Sense HAT om een afteltimer weer te geven.
 
-### What you will make
+### Wat ga je maken
 
-Click **Run** to start the countdown timer:
+Klik op **Run** om het aftellen van de timer te starten:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/dfdfcc6814?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
 </iframe> <img src="images/timer-final.png" />
 </div>
 
-### What you will learn
+### Wat ga je leren
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Apply basic programming constructs to solve a problem](https://www.raspberrypi.org/curriculum/programming/builder){:target="_blank"}
++ [Pas eenvoudige programmeerconstructies toe om een probleem op te lossen](https://www.raspberrypi.org/curriculum/programming/builder){:target="_blank"}
 
-### Additional information for educators
+### Aanvullende informatie voor clubleiders
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/countdown-timer/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/countdown-timer/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Gebruik de link in de voettekst voor toegang tot de GitHub opslagplaats voor dit project, met daarin alle bronnen (inclusief een voorbeeld van een voltooid project) in de map 'nl/resources'.
