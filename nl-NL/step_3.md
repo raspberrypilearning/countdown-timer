@@ -1,30 +1,30 @@
-## Text countdown
+## Aftellen met tekst
 
-First let's count down from 5 to 0 by displaying numbers using the Sense HAT's pixel display.
+Laten we eerst aftellen van 5 naar 0 door getallen weer te geven met behulp van het pixeldisplay van de Sense HAT.
 
-+ Open the Countdown timer starter trinket: <a href="http://jumpto.cc/timer-go" target="_blank">jumpto.cc/timer-go</a>
++ Open de afteltimer starttrinket: <a href="http://jumpto.cc/timer-go" target="_blank">jumpto.cc/timer-go</a>
     
-    **The code to set up the Sense HAT has been included for you.**
+    **De code voor het instellen van de Sense HAT is voor je meegeleverd.**
 
-+ You're going to count up to 5 first because that's easier to do. Add the highlighted code to the bottom of your script:
++ Je gaat tot 5 tellen, want dat is makkelijker. Voeg de gemarkeerde code onder aan je script toe:
     
-    ![screenshot](images/timer-count.png)
+    ![schermafbeelding](images/timer-count.png)
     
-    The command `sense.show_letter()` displays a single letter on the Sense HAT. It doesn't allow numbers, so you have to use `str()` to change the number into a format that it can display.
+    Het commando `sense.show_letter()` geeft een enkele letter op de Sense HAT weer. Het staat geen getallen toe, dus je moet `str()` gebruiken om het getal te wijzigen in een formaat dat het kan weergeven.
     
-    `sleep(1)` waits one second before the code moves on to the next step.
+    `sleep(1)` wacht een seconde voordat de code doorgaat naar de volgende stap.
 
-+ In Python, `range(1, 6)` returns the numbers 1 through to 5. You don't have to count in ones though:
++ In Python geeft `range(1, 6)` de getallen 1 tot en met 5. Je hoeft niet alleen met stappen van 1 te tellen:
     
-    + range(1, 10, 2) would count up in twos, giving 1, 3, 5, 7, and 9
-    + range(5, 0, -1) counts down by taking away -1, giving 5, 4, 3, 2, 1
+    + range(1, 10, 2) zou in in stappen van 2 tellen, wat 1, 3, 5, 7 en 9 geeft
+    + range(5, 0, -1) telt af met 1 door er steeds -1 af te halen, en geeft 5, 4, 3, 2, 1
     
-    Change the range in your code so that it counts down to 0:
+    Wijzig de range in je code zodat deze aftelt naar 0:
     
-    ![screenshot](images/timer-numbers.png)
+    ![schermafbeelding](images/timer-numbers.png)
 
-+ The number on the LEDs doesn't have to be white — the Sense HAT can display lots of colours. It uses RGB colours (red, green, and blue).
++ Het getal op de LED's hoeft niet wit te zijn — de Sense HAT kan veel kleuren tonen. Het gebruikt RGB kleuren (rood, groen en blauw).
     
-    Try using green:
+    Probeer groen te gebruiken:
     
-    ![screenshot](images/timer-green.png)
+    ![schermafbeelding](images/timer-green.png)
