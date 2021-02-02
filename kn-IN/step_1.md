@@ -19,6 +19,6 @@
 
 ### ಶಿಕ್ಷಣತಜ್ಞರಿಗೆ ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ
 
-ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [printer-friendly version](https://projects.raspberrypi.org/en/projects/countdown-timer/print){:target="_blank"} ಬಳಸಿರಿ.
+ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [ಮುದ್ರಕ-ಸ್ನೇಹಿ ಆವೃತ್ತಿಯನ್ನು](https://projects.raspberrypi.org/en/projects/countdown-timer/print){:target="_blank"} ಬಳಸಿರಿ.
 
 ಈ ಯೋಜನೆಯ ಗಿಟ್‌ಹಬ್ ರೆಪೊಸಿಟರಿಯನ್ನು ಪ್ರವೇಶಿಸಲು ಅಡಿಟಿಪ್ಪಣಿ ಲಿಂಕ್ ಅನ್ನು ಬಳಸಿ, ಅದರ 'en/resources' ಫೋಲ್ಡರ್‌ನಲ್ಲಿ ಎಲ್ಲಾ ಸಂಪನ್ಮೂಲಗಳು ಒಳಗೊಂಡಿದೆ (ಮುಗಿದಿರುವ ಉದಾಹರಣೆ ಯೋಜನೆ ಕೂಡ ಸೇರಿದೆ).
