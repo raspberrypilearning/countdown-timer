@@ -1,8 +1,8 @@
-## Creating a dot timer
+## डॉट टाइमर बनाना
 
-Another way to create a timer is by turning pixels from green to red.
+टाइमर बनाने का एक और तरीका यह है कि पिक्सल को हरे से लाल रंग में बदल दिया जाए।
 
-+ Open the dot timer starter trinket: <a href="http://jumpto.cc/dot-timer-go" target="_blank">jumpto.cc/dot-timer-go</a>
++ डॉट टाइमर स्टार्टर trinket को खोलें: <a href="http://jumpto.cc/dot-timer-go" target="_blank">jumpto.cc/dot-timer-go</a>
 
 + Add a variable `X` to use to turn pixels off — it has no red, green, or blue in its RGB value:
     
