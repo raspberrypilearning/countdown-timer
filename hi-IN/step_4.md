@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: another colour
+## चुनौती: कोई दूसरा रंग
 
-Can you change the colour to one you like?
+क्या आप रंग को अपनी पसंद के रंग में बदल सकते हैं?
 
-Here's another example that uses the colour red:
+यहाँ एक और उदाहरण है जिसमें लाल रंग का उपयोग हुआ है:
 
-![screenshot](images/timer-red.png)
+![स्क्रीनशॉट](images/timer-red.png)
 
-Try experimenting with the R, G, and B values — you can use any number from 0 to 255). What colour is `[255, 0, 255]`?
+R, G, और B मानों के साथ प्रयोग करने का प्रयास करें — आप 0 से 255 तक किसी भी संख्या का उपयोग कर सकते हैं)। `[255, 0, 255]` कौन सा रंग है?
 
-You can also look up the RGB values for a specific colour <a href="http://jumpto.cc/colours" target="_blank">here</a>.
+आप विशिष्ट रंग के लिए RGB मान भी देख सकते हैं।<a href="http://jumpto.cc/colours" target="_blank">here</a>
 
 \--- /challenge \---
