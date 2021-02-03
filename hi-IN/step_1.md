@@ -1,17 +1,17 @@
-## Introduction
+## उपक्षेप
 
-In this project you will use the coloured pixels on the Sense HAT to display a countdown timer.
+इस प्रोजेक्ट में आप काउंटडाउन टाइमर (उलटी गिनती घड़ी) प्रदर्शित करने के लिए Sense HAT पर रंगीन पिक्सेलों का उपयोग करेंगे।
 
-### What you will make
+### आप क्या बनाएँगे
 
-Click **Run** to start the countdown timer:
+काउंटडाउन टाइमर (उलटी गिनती घड़ी) शुरू करने के लिए **Run** (चलाएँ) पर क्लिक करें:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/dfdfcc6814?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
 </iframe> <img src="images/timer-final.png" />
 </div>
 
-### What you will learn
+### आप क्या सीखेंगे
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
