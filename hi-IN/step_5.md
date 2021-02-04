@@ -4,15 +4,15 @@
 
 + डॉट टाइमर स्टार्टर trinket को खोलें: <a href="http://jumpto.cc/dot-timer-go" target="_blank">jumpto.cc/dot-timer-go</a>
 
-+ Add a variable `X` to use to turn pixels off — it has no red, green, or blue in its RGB value:
++ पिक्सेल बंद करने के लिए वेरिएबल को `X` जोड़ें - इसके RGB मान में कोई लाल, हरा या नीला रंग नहीं है:
     
-    ![screenshot](images/timer-off.png)
+    ![स्क्रीनशॉट](images/timer-off.png)
 
-+ Add a variable called `s` for the number of seconds you want to count.
++ आप जितने सेकंड की गिनती करना चाहते हैं उसके लिए `s` नामक एक वेरिएबल जोड़ें।
     
-    ![screenshot](images/timer-seconds.png)
+    ![स्क्रीनशॉट](images/timer-seconds.png)
 
-+ You can give the Sense HAT a list of 64 (8×8) colours to display, starting from the top left and working down a row at a time.
++ आप Sense HAT को प्रदर्शित करने के लिए 64 (8 × 8) रंगों की एक सूची दे सकते हैं, जो ऊपर बाईं ओर से शुरू होते हैं और एक समय में एक पंक्ति में काम करते हैं।
     
     Let's create a list of colours by creating a green pixel dot for each second we want to count, and setting the rest of the 64 pixels so they are off. The `timer` variable contains the list of colours to display and starts off empty:
     
