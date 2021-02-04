@@ -14,14 +14,14 @@
 
 + आप Sense HAT को प्रदर्शित करने के लिए 64 (8 × 8) रंगों की एक सूची दे सकते हैं, जो ऊपर बाईं ओर से शुरू होते हैं और एक समय में एक पंक्ति में काम करते हैं।
     
-    Let's create a list of colours by creating a green pixel dot for each second we want to count, and setting the rest of the 64 pixels so they are off. The `timer` variable contains the list of colours to display and starts off empty:
+    आइए हम जितने सेकंड की गिनती करना चाहते हैं, उस प्रत्येक सेकंड के लिए हरे रंग की पिक्सेल डॉट बनाकर रंगों की सूची बनाएँ, और बाकी 64 पिक्सेल को सेट कर दें ताकि वे बंद हो जाएँ। `timer` वेरिएबल में प्रदर्शित किए जाने वाले रंगों की सूची शामिल है और यह खाली चलना शुरू होता है:
     
-    ![screenshot](images/timer-setup.png)
+    ![स्क्रीनशॉट](images/timer-setup.png)
 
-+ Now let's run the countdown by turning a pixel red every second:
++ आइए अब हम हर सेकंड एक पिक्सेल को लाल रंग में बदल कर उलटी गिनती चलाएँ:
     
-    ![screenshot](images/timer-turn-red.png)
+    ![स्क्रीनशॉट](images/timer-turn-red.png)
 
-+ You could also flash the display **at the end** by turning the pixels on and off:
++ आप पिक्सल को चालू और बंद करके डिस्प्ले को **अंत में** भी फ्लैश कर सकते हैं:
     
-    ![screenshot](images/timer-flash.png)
+    ![स्क्रीनशॉट](images/timer-flash.png)
