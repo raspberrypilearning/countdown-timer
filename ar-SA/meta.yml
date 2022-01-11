@@ -17,9 +17,11 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: المقدمة
-  - title: ما ستحتاج إليه
-  - title: العد التنازلي للنص
-  - title: 'التحدي: لون آخر'
-  - title: إنشاء مؤقت نقطي
-  - title: 'التحدي: ألعاب المؤقت'
+- title: المقدمة
+- title: ما ستحتاج إليه
+  completion: engaged
+- title: العد التنازلي للنص
+- title: 'التحدي: لون آخر'
+- title: إنشاء مؤقت نقطي
+  completion: internal
+- title: 'التحدي: ألعاب المؤقت'

@@ -17,9 +17,11 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: ಪರಿಚಯ
-  - title: ನಿಮಗೆ ಬೇಕಾದುದು
-  - title: ಪಠ್ಯ ಕ್ಷಣಗಣನೆ
-  - title: 'ಸವಾಲು: ಇನ್ನೊಂದು ಬಣ್ಣ'
-  - title: ಡಾಟ್ ಟೈಮರ್ ಅನ್ನು ರಚಿಸುವುದು
-  - title: 'ಸವಾಲು: ಟೈಮರ್ ಆಟಗಳು'
+- title: ಪರಿಚಯ
+- title: ನಿಮಗೆ ಬೇಕಾದುದು
+  completion: engaged
+- title: ಪಠ್ಯ ಕ್ಷಣಗಣನೆ
+- title: 'ಸವಾಲು: ಇನ್ನೊಂದು ಬಣ್ಣ'
+- title: ಡಾಟ್ ಟೈಮರ್ ಅನ್ನು ರಚಿಸುವುದು
+  completion: internal
+- title: 'ಸವಾಲು: ಟೈಮರ್ ಆಟಗಳು'

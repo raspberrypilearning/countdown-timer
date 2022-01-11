@@ -17,9 +17,11 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introduction
-  - title: Ce dont tu auras besoin
-  - title: Compte à rebours du texte
-  - title: 'Défi : une autre couleur'
-  - title: Création d'un chronomètre de point
-  - title: 'Défi : jeux de minuterie'
+- title: Introduction
+- title: Ce dont tu auras besoin
+  completion: engaged
+- title: Compte à rebours du texte
+- title: 'Défi : une autre couleur'
+- title: Création d'un chronomètre de point
+  completion: internal
+- title: 'Défi : jeux de minuterie'

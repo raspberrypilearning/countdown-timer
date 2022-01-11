@@ -17,9 +17,11 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Inleiding
-  - title: Wat heb je nodig
-  - title: Aftellen met tekst
-  - title: 'Uitdaging: een andere kleur'
-  - title: Een timer met stippen maken
-  - title: 'Uitdaging: timerspellen'
+- title: Inleiding
+- title: Wat heb je nodig
+  completion: engaged
+- title: Aftellen met tekst
+- title: 'Uitdaging: een andere kleur'
+- title: Een timer met stippen maken
+  completion: internal
+- title: 'Uitdaging: timerspellen'

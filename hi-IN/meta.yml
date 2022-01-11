@@ -17,9 +17,11 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: उपक्षेप
-  - title: आपको किसकी आवश्यकता होगी
-  - title: पाठ की उलटी गिनती
-  - title: 'चुनौती: कोई दूसरा रंग'
-  - title: डॉट टाइमर बनाना
-  - title: 'चुनौती: टाइमर खेल'
+- title: उपक्षेप
+- title: आपको किसकी आवश्यकता होगी
+  completion: engaged
+- title: पाठ की उलटी गिनती
+- title: 'चुनौती: कोई दूसरा रंग'
+- title: डॉट टाइमर बनाना
+  completion: internal
+- title: 'चुनौती: टाइमर खेल'
