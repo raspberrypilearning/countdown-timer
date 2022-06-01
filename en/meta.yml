@@ -1,3 +1,4 @@
+---
 hero_image: images/countdown-timer.png
 theme: red
 duration: 2
@@ -15,10 +16,13 @@ hardware: sense-hat
 software: ''
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
 - title: What you will need
 - title: Text countdown
 - title: 'Challenge: another colour'
 - title: Creating a dot timer
+  completion:
+  - engaged
+  - internal
 - title: 'Challenge: timer games'
