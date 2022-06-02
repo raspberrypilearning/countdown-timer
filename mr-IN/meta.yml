@@ -19,9 +19,10 @@ last_tested: 2017-01-01
 steps:
 - title: परिचय
 - title: आपल्याला कशाची आवश्यकता लागेल
-  completion: engaged
 - title: मजकूराचे उलट गणना
 - title: 'आव्हान: दुसरा रंग'
 - title: डॉट टाइमर तयार करणे
-  completion: internal
+  completion:
+  - engaged
+  - internal
 - title: 'आव्हान: टाइमर खेळ'

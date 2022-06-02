@@ -19,9 +19,10 @@ last_tested: 2017-01-01
 steps:
 - title: Inleiding
 - title: Wat heb je nodig
-  completion: engaged
 - title: Aftellen met tekst
 - title: 'Uitdaging: een andere kleur'
 - title: Een timer met stippen maken
-  completion: internal
+  completion:
+  - engaged
+  - internal
 - title: 'Uitdaging: timerspellen'
